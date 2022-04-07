@@ -1,0 +1,1 @@
+web: gunicorn Expiry_date_management_system.wsgi --log-file -
